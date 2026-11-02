@@ -1,0 +1,30 @@
+{
+ "name": "Пары и ДЗ",
+ "short_name": "Пары и ДЗ",
+ "description": "Расписание пар, домашка и работа",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "ru",
+ "background_color": "#F3F1EC",
+ "theme_color": "#F3F1EC",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
